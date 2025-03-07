@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Chirpy</title>
+  <title>Rockstar Montanna Studio's Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-03-07T21:55:17+08:00</updated>
+  <updated>2025-03-07T11:02:26-03:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Start</title>
     <link href="http://localhost:4000/posts/start/" rel="alternate" type="text/html" title="Start" />
-    <published>2025-03-06T00:00:00+08:00</published>
+    <published>2025-03-06T00:00:00-03:00</published>
   
-    <updated>2025-03-06T00:00:00+08:00</updated>
+    <updated>2025-03-06T00:00:00-03:00</updated>
   
     <id>http://localhost:4000/posts/start/</id>
     <content type="text/html" src="http://localhost:4000/posts/start/" />
@@ -46,9 +46,9 @@
   <entry>
     <title>Anniversary</title>
     <link href="http://localhost:4000/posts/anniversary/" rel="alternate" type="text/html" title="Anniversary" />
-    <published>2019-08-17T00:00:00+08:00</published>
+    <published>2019-08-17T00:00:00-04:00</published>
   
-    <updated>2019-08-17T00:00:00+08:00</updated>
+    <updated>2019-08-17T00:00:00-04:00</updated>
   
     <id>http://localhost:4000/posts/anniversary/</id>
     <content type="text/html" src="http://localhost:4000/posts/anniversary/" />
@@ -70,9 +70,9 @@
   <entry>
     <title>Customize the Favicon</title>
     <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T00:34:00+08:00</published>
+    <published>2019-08-10T12:34:00-04:00</published>
   
-    <updated>2024-03-02T01:28:45+08:00</updated>
+    <updated>2024-03-01T14:28:45-03:00</updated>
   
     <id>http://localhost:4000/posts/customize-the-favicon/</id>
     <content type="text/html" src="http://localhost:4000/posts/customize-the-favicon/" />
@@ -96,9 +96,9 @@
   <entry>
     <title>Getting Started</title>
     <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T20:55:00+08:00</published>
+    <published>2019-08-09T08:55:00-04:00</published>
   
-    <updated>2025-02-06T13:27:54+08:00</updated>
+    <updated>2025-02-06T02:27:54-03:00</updated>
   
     <id>http://localhost:4000/posts/getting-started/</id>
     <content type="text/html" src="http://localhost:4000/posts/getting-started/" />
@@ -122,9 +122,9 @@
   <entry>
     <title>Writing a New Post</title>
     <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T14:10:00+08:00</published>
+    <published>2019-08-08T02:10:00-04:00</published>
   
-    <updated>2025-03-05T05:06:37+08:00</updated>
+    <updated>2025-03-04T18:06:37-03:00</updated>
   
     <id>http://localhost:4000/posts/write-a-new-post/</id>
     <content type="text/html" src="http://localhost:4000/posts/write-a-new-post/" />
