@@ -16,38 +16,6 @@
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  ¡Hola a todos! Un día como hoy, 17 de agosto del año 2016 (en este caso del año 2019) es una fecha especial para nosotros, y se trata de la fecha de nacim..."
   },
   {
-    "title": "Customize the Favicon",
-    "url": "/posts/customize-the-favicon/",
-    "categories": "Blogging, Tutorial",
-    "tags": "favicon",
-    "date": "2019-08-10 12:34:00 -0400",
-    "content": "The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons..."
-  },
-  {
-    "title": "Getting Started",
-    "url": "/posts/getting-started/",
-    "categories": "Blogging, Tutorial",
-    "tags": "getting started",
-    "date": "2019-08-09 08:55:00 -0400",
-    "content": "Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server."
-  },
-  {
-    "title": "Writing a New Post",
-    "url": "/posts/write-a-new-post/",
-    "categories": "Blogging, Tutorial",
-    "tags": "writing",
-    "date": "2019-08-08 02:10:00 -0400",
-    "content": "This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and..."
-  },
-  {
-    "title": "Text and Typography",
-    "url": "/posts/text-and-typography/",
-    "categories": "Blogging, Demo",
-    "tags": "typography",
-    "date": "2019-08-07 23:33:00 -0400",
-    "content": "Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more."
-  },
-  {
     "title": "SA Magazine 1",
     "url": "/posts/magazine1/",
     "categories": "GTA",
@@ -88,14 +56,6 @@
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA3. Revista Power Station / Edición 69 / Año 2002, 2 de febrero."
   },
   {
-    "title": "Magazine4   copy.md:zone",
-    "url": "/posts/magazine4-Copy.md-Zone/",
-    "categories": "",
-    "tags": "",
-    "date": "2019-02-25 00:00:00 -0300",
-    "content": ""
-  },
-  {
     "title": "VC Magazine 2",
     "url": "/posts/magazine5/",
     "categories": "GTA",
@@ -104,28 +64,12 @@
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA Vice City. Revista Oficial PlayStation 2 / Edición 23 / Año 2002, diciembre."
   },
   {
-    "title": "Magazine5   copy.md:zone",
-    "url": "/posts/magazine5-Copy.md-Zone/",
-    "categories": "",
-    "tags": "",
-    "date": "2019-01-29 00:00:00 -0300",
-    "content": ""
-  },
-  {
     "title": "VC Magazine 3",
     "url": "/posts/magazine6/",
     "categories": "GTA",
     "tags": "magazine",
     "date": "2019-01-28 00:00:00 -0300",
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA Vice City. Micromanía / Edición 99 / Año 2003, 1 de abril."
-  },
-  {
-    "title": "Magazine6   copy.md:zone",
-    "url": "/posts/magazine6-Copy.md-Zone/",
-    "categories": "",
-    "tags": "",
-    "date": "2019-01-28 00:00:00 -0300",
-    "content": ""
   },
   {
     "title": "SA Magazine 3",
