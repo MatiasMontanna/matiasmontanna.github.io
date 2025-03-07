@@ -56,12 +56,28 @@
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  Antes de finalizar el mes de Junio de este año 2019, ofrecemos hoy el siguiente contenido:  GTA San Andreas. Revista PlayStation Magazine USA / Edición 87..."
   },
   {
+    "title": "Magazine1   copy.md:zone",
+    "url": "/posts/magazine1-Copy.md-Zone/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-06-26 00:00:00 -0400",
+    "content": ""
+  },
+  {
     "title": "SA Magazine 2",
     "url": "/posts/magazine2/",
     "categories": "GTA",
     "tags": "magazine",
     "date": "2019-05-29 00:00:00 -0400",
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA San Andreas. Revista Game Informer / Edición 134 / Año 2004, junio."
+  },
+  {
+    "title": "VCS Press kit",
+    "url": "/posts/presskit1/",
+    "categories": "GTA",
+    "tags": "press kit",
+    "date": "2019-04-24 00:00:00 -0400",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  Kit de Prensa de GTA Vice City Stories de Rockstar Games:"
   }
   
 ]
