@@ -56,14 +56,6 @@
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  Antes de finalizar el mes de Junio de este año 2019, ofrecemos hoy el siguiente contenido:  GTA San Andreas. Revista PlayStation Magazine USA / Edición 87..."
   },
   {
-    "title": "Magazine1   copy.md:zone",
-    "url": "/posts/magazine1-Copy.md-Zone/",
-    "categories": "",
-    "tags": "",
-    "date": "2019-06-26 00:00:00 -0400",
-    "content": ""
-  },
-  {
     "title": "SA Magazine 2",
     "url": "/posts/magazine2/",
     "categories": "GTA",
@@ -72,12 +64,84 @@
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA San Andreas. Revista Game Informer / Edición 134 / Año 2004, junio."
   },
   {
-    "title": "VCS Press kit",
+    "title": "VCS Press kit (book)",
     "url": "/posts/presskit1/",
     "categories": "GTA",
     "tags": "press kit",
     "date": "2019-04-24 00:00:00 -0400",
     "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  Kit de Prensa de GTA Vice City Stories de Rockstar Games:"
+  },
+  {
+    "title": "VC Magazine 1",
+    "url": "/posts/magazine3/",
+    "categories": "GTA",
+    "tags": "magazine",
+    "date": "2019-04-01 00:00:00 -0300",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA Vice City. Revista PC Zone / Edición 128 / Año 2003, mayo."
+  },
+  {
+    "title": "GTA3 Magazine 1",
+    "url": "/posts/magazine4/",
+    "categories": "GTA",
+    "tags": "magazine",
+    "date": "2019-02-25 00:00:00 -0300",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA3. Revista Power Station / Edición 69 / Año 2002, 2 de febrero."
+  },
+  {
+    "title": "Magazine4   copy.md:zone",
+    "url": "/posts/magazine4-Copy.md-Zone/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-02-25 00:00:00 -0300",
+    "content": ""
+  },
+  {
+    "title": "VC Magazine 2",
+    "url": "/posts/magazine5/",
+    "categories": "GTA",
+    "tags": "magazine",
+    "date": "2019-01-29 00:00:00 -0300",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA Vice City. Revista Oficial PlayStation 2 / Edición 23 / Año 2002, diciembre."
+  },
+  {
+    "title": "Magazine5   copy.md:zone",
+    "url": "/posts/magazine5-Copy.md-Zone/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-01-29 00:00:00 -0300",
+    "content": ""
+  },
+  {
+    "title": "VC Magazine 3",
+    "url": "/posts/magazine6/",
+    "categories": "GTA",
+    "tags": "magazine",
+    "date": "2019-01-28 00:00:00 -0300",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA Vice City. Micromanía / Edición 99 / Año 2003, 1 de abril."
+  },
+  {
+    "title": "Magazine6   copy.md:zone",
+    "url": "/posts/magazine6-Copy.md-Zone/",
+    "categories": "",
+    "tags": "",
+    "date": "2019-01-28 00:00:00 -0300",
+    "content": ""
+  },
+  {
+    "title": "SA Magazine 3",
+    "url": "/posts/magazine7/",
+    "categories": "GTA",
+    "tags": "magazine",
+    "date": "2019-01-20 00:00:00 -0300",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  GTA San Andreas. Play2Mania / Edición 69 / Año 2004."
+  },
+  {
+    "title": "Bradygames guides list",
+    "url": "/posts/guideslist/",
+    "categories": "GTA",
+    "tags": "guides",
+    "date": "2014-08-28 00:00:00 -0400",
+    "content": "OLD CONTENT. TO BE TRANSLATED TO ENGLISH.  Guías de Bradygames  GTA3: aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEI4TjdXNkh5Q01ERGZtTjNiR1pTVURVNFMyWkxUR0ZIVlVKcWFEUXpXVkJYYVhvMk1XdDFWVUl..."
   }
   
 ]
